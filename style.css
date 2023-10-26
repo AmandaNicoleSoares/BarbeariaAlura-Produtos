@@ -52,13 +52,3 @@ ul{
 .imagembeneficios{
     width: 50%
 }
-
-produtos.css{
-    header {
-        background: #BBBBBB;
-    }
-    
-    nav li {
-        display: inline
-    }
-}
