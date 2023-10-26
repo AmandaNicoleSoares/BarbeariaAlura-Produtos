@@ -47,6 +47,7 @@ nav a {
 }
 
 .produtos li {
+    margin: 0 1.5%;
     background: #CCCCCC;
     vertical-align: top;
     width: 30%;
