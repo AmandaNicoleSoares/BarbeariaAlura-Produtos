@@ -39,11 +39,13 @@ nav a {
     text-decoration: none;
 }
 
+
 .produtos {
     width: 940px;
     margin: 0 auto;
 }
 
 .produtos li {
+    text-align: center;
     display: inline-block
 }
