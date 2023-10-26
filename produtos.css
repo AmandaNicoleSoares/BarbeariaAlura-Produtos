@@ -4,11 +4,14 @@ header {
 
 nav {
     position: absolute
-    top: 0
 }
 
 nav{
-    rigth:0
+    top: 0 
+}
+
+nav{
+    right: 0;
 }
 
 nav li {
