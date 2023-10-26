@@ -91,3 +91,8 @@ nav a:hover {
     font-size: 22px;
     font-weight: bold;
 }
+
+footer {
+    background: #CCCCCC;
+    text-align: center;
+}
