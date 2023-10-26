@@ -93,6 +93,6 @@ nav a:hover {
 }
 
 footer {
-    background: #CCCCCC;
     text-align: center;
+    background: url("bg.jpg")
 }
