@@ -53,7 +53,12 @@ nav a {
     display: inline-block
 }
 
-.produtos h2{
+.produtos h2 {
     font-size: 30px;
+    font-weight: bold;
+}
+
+.produto-preco {
+    font-size: 22px;
     font-weight: bold;
 }
