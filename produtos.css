@@ -52,3 +52,8 @@ nav a {
     text-align: center;
     display: inline-block
 }
+
+.produtos h2{
+    font-size: 30px;
+    font-weight: bold;
+}
